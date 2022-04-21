@@ -60,11 +60,14 @@ ssh-add ~/.ssh/id_ed25519
 
 cat ~/.ssh/id_ed25519.pub
 ```
+Copy the contents printed to the terminal by the previous `cat` command
 
-Add the ssh key to your github profile and then clone this repository to your home directory
+**Add that ssh key to your github profile** 
+
+and then clone this repository to your `~/` home directory
 
 ```bash
-git clone git@github.com:oceaster/oceaster.git System --recurse-submodules
+git clone git@github.com:EasterCompany/.github.git .github --recurse-submodules
 ```
 
 Once you've gained permissions and cloned the repo; cd into it and begin the installation script
@@ -93,8 +96,6 @@ read & write access within the Easter Company Organisation on Github - then proc
 
 - Run the `~/System/dev/install.sh` script.
 - Edit your `~/Easter/Dev/Ext/Overlord/.config` files
-- Run `./o migrate` from within `../Overlord` directory
-- Run `./o install -clients`
-- Run `./o build -all`
-- Run `./o runserver`
+- For a first time run & install use `./o migrate && ./o install -clients && ./o build -all && ./o runserver`.
+- From there on re-run the server using `./o runserver` or single client using `./o runclient -client_name`
 - Success!
