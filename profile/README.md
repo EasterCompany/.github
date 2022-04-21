@@ -2,9 +2,15 @@
 [![Website](https://img.shields.io/badge/Easter%20Company-website-orange)](https://www.easter.company)
 [![Twitter](https://img.shields.io/twitter/follow/eastercompany?label=Easter%20Company&style=social)](https://twitter.com/eastercompany)
 
+##### Who are we?
+Easter Company is an Engineering, Enterprise, Education & Entertainment Software Producer with a mostly open source approach to all developments.
+
 <br/>
 <br/>
+<br/>
+
 <h2 align="right"> Overlord </h2>
+
 
 ### Production Applications
 
