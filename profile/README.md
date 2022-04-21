@@ -67,26 +67,23 @@ Add the ssh key to your github profile and then clone this repository to your ho
 git clone git@github.com:oceaster/oceaster.git System --recurse-submodules
 ```
 
-Then cd into the repo and begin the installation script.
+Once you've gained permissions and cloned the repo; cd into it and begin the installation script
 
 ```bash
-cd System
-./install.sh
+cd System && ./install.sh
 ```
 
-Then open the hidden file named `.bashrc` and copy all of its contents to your clipboard
+Open the file named `.bashrc` and copy all of its contents to your clipboard
 
 ```bash
-cd ~/System
-nano .bashrc
+cd ~/System && cat .bashrc # or nano .bashrc
 ```
 
 Then open the file with the same name inside your home directory and paste the content into
 that file
 
 ```bash
-cd ~
-nano .bashrc
+cd ~ && nano .bashrc
 ```
 
 ### Setup an Easter Company Dev Environment
