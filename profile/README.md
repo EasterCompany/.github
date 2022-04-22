@@ -13,24 +13,24 @@ Easter Company is an Engineering, Enterprise, Education & Entertainment Software
 ### Production Applications
 
 ###### Easter Company
-<a href="https://www.easter.company"><pre> Default Site                 (Home)              [<b>DISABLED</b>] </pre></a>
+<pre><a href="https://www.easter.company"> Default Site             (Home)              [<b>DISABLED</b>] </a>      <a>    [ GIT ]   </a><a>    [ DEMO ]</a></pre>
 <a href="https://eastercompany.eu.pythonanywhere.com">
-                                     <pre> E Panel            (Administration)               [<b>PRIVATE</b>] </pre></a>
+                                     <pre> E Panel        (Administration)               [<b>PRIVATE</b>] </pre></a>
                                      
 ###### Customer Overlord Clients
-<a href="https://www.pardoewray.com"><pre> Parode Wray        (Career Finder)                   [<b>LIVE</b>] </pre></a>
-<a href="https://www.inverair.co.uk"><pre> Inverair           (Drone Services)                  [<b>LIVE</b>] </pre></a>
+<a href="https://www.pardoewray.com"><pre> Parode Wray     (Career Finder)                  [<b>LIVE</b>] </pre></a>
+<a href="https://www.inverair.co.uk"><pre> Inverair       (Drone Services)                  [<b>LIVE</b>] </pre></a>
 
 ### Staging Applications
 
 ###### Easter Company
-<a href="https://www.easter.company"><pre> Default Site                 (Home)               [<b>PRIVATE</b>] </pre></a>
+<a href="https://www.easter.company"><pre> Default Site             (Home)               [<b>PRIVATE</b>] </pre></a>
 <a href="https://eastercompany.eu.pythonanywhere.com">
-                                     <pre> E Panel            (Administration)               [<b>PRIVATE</b>] </pre></a>
+                                     <pre> E Panel        (Administration)               [<b>PRIVATE</b>] </pre></a>
 
 ###### Customer Overlord Clients
-<a href="https://www.pardoewray.com"><pre> Parode Wray        (Career Finder)                [<b>PRIVATE</b>] </pre></a>
-<a href="https://www.inverair.co.uk"><pre> Inverair           (Drone Services)               [<b>PRIVATE</b>] </pre></a>
+<a href="https://www.pardoewray.com"><pre> Parode Wray     (Career Finder)               [<b>PRIVATE</b>] </pre></a>
+<a href="https://www.inverair.co.uk"><pre> Inverair       (Drone Services)               [<b>PRIVATE</b>] </pre></a>
 
 
 <br/>
