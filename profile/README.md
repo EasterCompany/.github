@@ -16,13 +16,13 @@ Easter Company is an Engineering, Enterprise, Education & Entertainment Software
 ### Production Applications
 
 ###### Easter Company
-<pre><a href="https://www.easter.company"> Default Site             (Home)              [<b>DISABLED</b>] </a>      <a>    [ GIT ]   </a><a>    [ DEV ]    </a></pre>
+<pre><a href="https://www.easter.company"> Default Site             (Home)              [<b>DISABLED</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
 
-<pre><a href="https://eastercompany.eu.pythonanywhere.com"> E Panel        (Administration)               [<b>PRIVATE</b>] </a>      <a>    [ GIT ]   </a><a>    [ DEV ]    </a></pre>
+<pre><a href="https://eastercompany.eu.pythonanywhere.com"> E Panel        (Administration)               [<b>PRIVATE</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
                                      
 ###### Customer Overlord Clients
-<pre><a href="https://www.pardoewray.com"> Parode Wray     (Career Finder)                  [<b>LIVE</b>] </a>      <a>    [ GIT ]   </a><a>    [ DEV ]    </a></pre>
-<pre><a href="https://www.inverair.co.uk"> Inverair       (Drone Services)                  [<b>LIVE</b>] </a>      <a>    [ GIT ]   </a><a>    [ DEV ]    </a></pre>
+<pre><a href="https://www.pardoewray.com"> Parode Wray     (Career Finder)                  [<b>LIVE</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
+<pre><a href="https://www.inverair.co.uk"> Inverair       (Drone Services)                  [<b>LIVE</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
 
 
 <br/>
