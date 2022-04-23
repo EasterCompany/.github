@@ -1,6 +1,9 @@
+<h1 align="center"> Easter Company </h1>
+
 
 [![Website](https://img.shields.io/badge/Easter%20Company-website-orange)](https://www.easter.company)
 [![Twitter](https://img.shields.io/twitter/follow/eastercompany?label=Easter%20Company&style=social)](https://twitter.com/eastercompany)
+
 
 ##### Who are we?
 Easter Company is an Engineering, Enterprise, Education & Entertainment Software Producer with a mostly open source approach to all developments. If you're looking for the Easter Company Developer Setup Guide <a href="https://github.com/EasterCompany/.github/blob/35d95263837a60307f4b7f79c9fe23c07a3ec290/Developer%20Environment%20Setup.md"> Click Here </a>.
