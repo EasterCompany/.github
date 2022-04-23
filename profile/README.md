@@ -1,4 +1,4 @@
-<h1 align="center"> Easter Company </h1>
+# Easter Company
 
 
 [![Website](https://img.shields.io/badge/Easter%20Company-website-orange)](https://www.easter.company)
