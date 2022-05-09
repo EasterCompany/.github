@@ -15,6 +15,8 @@ Easter Company is an Engineering, Enterprise, Education & Entertainment Software
 
 <h2 align="right"> Overlord </h2>
 
+##### So, what can you do with it?
+Check out our portfolio of stable-production applications created and hosted with Overlord in partnership with <a href="https://www.pythonanywhere.com/">PythonAnywhere</a>. 
 
 ### Production Applications
 
@@ -32,6 +34,8 @@ Easter Company is an Engineering, Enterprise, Education & Entertainment Software
 
 <h2 align="right"> About Overlord </h2>
 
+##### What exactly is Overlord?
+Overlord is a fullstack infrastructure framework allowing you to build, test & deploy a suite of highly automated, improved and expanded Python-Django Backend / Typescript-React Frontend Web Application with **optional** built-in support for E-Panel; Easter Companies Administration & Content Management Platform. 
 
 ### Frameworks & Libraries
 
