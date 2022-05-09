@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-# Easter Company
+# Welcome!
 
 
 [![Website](https://img.shields.io/badge/Easter%20Company-website-orange)](https://www.easter.company)
