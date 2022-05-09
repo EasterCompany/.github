@@ -7,17 +7,15 @@
 [![Twitter](https://img.shields.io/twitter/follow/eastercompany?label=Easter%20Company&style=social)](https://twitter.com/eastercompany)
 
 
-##### Who are we?
+###### Who are we?
 Easter Company is an Engineering, Enterprise, Education & Entertainment Software Producer with a mostly open source approach to all developments. If you're looking for the Easter Company Developer Setup Guide <a href="https://github.com/EasterCompany/.github/blob/35d95263837a60307f4b7f79c9fe23c07a3ec290/Developer%20Environment%20Setup.md"> Click Here </a>.
 
 <br/>
 
-<h2 align="right"> Overlord </h2>
+<h2 align="right"> About Overlord </h2>
 
-##### So, what can you do with it?
-Check out our portfolio of stable-production applications created and hosted with Overlord in partnership with <a href="https://www.pythonanywhere.com/">PythonAnywhere</a>. 
-
-### Production Applications
+###### So, what can you do with it?
+Check out our portfolio of stable-production applications created and hosted with Overlord in partnership with <a href="https://www.pythonanywhere.com/">PythonAnywhere</a>.
 
 ###### Easter Company
 <pre><a href="https://www.easter.company"> Default Site             (Home)              [<b>DISABLED</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
@@ -28,12 +26,7 @@ Check out our portfolio of stable-production applications created and hosted wit
 <pre><a href="https://www.pardoewray.com"> Parode Wray        (Job Finder)                  [<b>LIVE</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
 <pre><a href="https://www.inverair.co.uk"> Inverair       (Drone Services)              [<b>DISABLED</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
 
-
-<br/>
-
-<h2 align="right"> About Overlord </h2>
-
-##### What exactly is Overlord?
+###### What exactly is Overlord?
 Overlord is a fullstack infrastructure framework allowing you to build, test & deploy a suite of highly automated, improved and expanded Python-Django Backend / Typescript-React Frontend Web Application with **optional** built-in support for E-Panel; Easter Companies Administration & Content Management Platform. 
 
 ### Frameworks & Libraries
