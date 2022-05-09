@@ -29,7 +29,7 @@ Check out our portfolio of stable-production applications created and hosted wit
 ###### What exactly is Overlord?
 Overlord is a fullstack infrastructure framework allowing you to build, test & deploy a suite of highly automated, improved and expanded Python-Django Backend / Typescript-React Frontend Web Application with **optional** built-in support for E-Panel; Easter Companies Administration & Content Management Platform. 
 
-### Frameworks & Libraries
+###### Frameworks & Libraries
 
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -39,7 +39,7 @@ Overlord is a fullstack infrastructure framework allowing you to build, test & d
 <br/>
 <br/>
 
-### Languages
+###### Languages
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
