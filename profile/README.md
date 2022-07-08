@@ -15,7 +15,7 @@ Easter Company is an Engineering, Enterprise, Education & Entertainment Software
 <h2 align="right"> About Overlord </h2>
 
 ###### So, what can you do with it?
-Check out our portfolio of stable-production applications created and hosted with Overlord in partnership with <a href="https://www.pythonanywhere.com/">PythonAnywhere</a>.
+Check out our portfolio of stable-production applications created with Overlord and hosted with <a href="https://www.pythonanywhere.com/">PythonAnywhere</a>.
 
 ###### Easter Company
 <pre><a href="https://www.easter.company"> Default Site             (Home)              [<b>DISABLED</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
