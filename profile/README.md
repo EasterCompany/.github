@@ -23,8 +23,8 @@ Check out our portfolio of stable-production applications created with Overlord 
 <pre><a href="https://eastercompany.eu.pythonanywhere.com"> E Panel    (Admin & CMS Client)              [<b>DISABLED</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
                                      
 ###### Customer Overlord Clients
-<pre><a href="https://www.pardoewray.com"> Parode Wray        (Job Finder)                  [<b>LIVE</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
-<pre><a href="https://www.inverair.co.uk"> Inverair       (Drone Services)              [<b>DISABLED</b>] </a>      <a>    [<b>GIT</b>]   </a><a>    [<b>DEV</b>]    </a></pre>
+<pre><a href="https://www.pardoewray.com"> Parode Wray        (Job Finder)                  [<b>LIVE</b>] </a></pre>
+<pre><a href="https://www.inverair.co.uk"> Inverair       (Drone Services)                  [<b>LIVE</b>] </a></pre>
 
 ###### What exactly is Overlord?
 Overlord is a fullstack infrastructure framework allowing you to build, test & deploy a suite of highly automated, improved and expanded Python-Django Backend / Typescript-React Frontend Web Application with **optional** built-in support for E-Panel; Easter Companies Administration & Content Management Platform. 
